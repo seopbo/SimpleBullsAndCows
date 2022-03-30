@@ -1,6 +1,6 @@
 #include <iostream>
 #include <random>
-#include "../include/BaseballGame.h"
+#include "BaseballGame.h"
 #include <time.h>
 
 using namespace std;
